@@ -34,3 +34,5 @@ pip install --upgrade pip
 ```bash
 pip install -r requirements.txt
 ```
+
+https://habr.com/ru/articles/756978/
